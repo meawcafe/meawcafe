@@ -1,4 +1,4 @@
-# welcome to my profile ( ๑>ω•́ )☕
+## welcome to my profile ( ๑>ω•́ )☕
 
 I'm **19 years** old, I'm **Brazilian** and I live in the countryside of **Sao Paulo**. I like **kittens**, **rain**, **cloudy weather**, **ice cream**, **coffee** and especially the **night**.
 
