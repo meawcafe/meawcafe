@@ -1,4 +1,7 @@
-## welcome to my profile ( ๑>ω•́ )☕
+<h1>
+  welcome to my profile ( ๑>ω•́ )☕
+  <img src='./moon.svg' alt='moon' width='24rem'>
+</h1>
 
 I'm **19 years** old, I'm **Brazilian** and I live in the countryside of **Sao Paulo**. I like **kittens**, **rain**, **cloudy weather**, **ice cream**, **coffee** and especially the **night**.
 
