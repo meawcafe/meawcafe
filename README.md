@@ -14,8 +14,8 @@ I attended a **Internet Computing** technical course at **[ETEC](https://www.cps
 <br/>
 <br/>
  
- <div align="center">
-  **[profile visits:](#)**
+<div align="center">
+  <h3>Profile Views</h3>
 
   ![profile views counter](https://count.getloli.com/get/@meawcafe?theme=rule34)
 </div>
