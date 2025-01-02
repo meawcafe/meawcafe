@@ -5,7 +5,7 @@
 
 I'm **22 years** old, **Brazilian** and I live in the countryside of **Sao Paulo**. I like **kittens**, **rain**, **cloudy weather**, **ice cream**, **coffee** and especially the **night**.
 
-I attended a **Internet Computing** technical course at **[ETEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)**, and I'm majoring in **Internet Systems** at **[FATEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)**.
+I completed a technical course in **Internet Computing** at **[ETEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)** and graduated with a technologist degree in **Internet Systems** from **[FATEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)**.
 
 <br/>
 
