@@ -18,5 +18,5 @@ I completed a technical course in **Internet Computing** at **[ETEC](https://www
 <div align="center">
   <h3>Profile Views</h3>
 
-  ![profile views counter](https://count.getloli.com/get/@meawcafe?theme=rule34)
+  ![profile views counter](https://count.getloli.com/get/@meawcafe?theme=original-new)
 </div>
