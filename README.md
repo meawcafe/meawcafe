@@ -1,5 +1,5 @@
 <h1>
-  welcome to my profile ( ๑>ω•́ )☕
+  Welcome to my profile ( ๑>ω•́ )☕
   <img src='./moon.svg' alt='moon' width='28rem'>
 </h1>
 
