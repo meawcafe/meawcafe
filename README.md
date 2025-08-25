@@ -15,14 +15,9 @@
 
 
 ### 📊 GitHub Stats  
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meawcafe&layout=compact&border_color=23232f&bg_color=40,23232f,23232f&border_radius=12&title_color=ff578b&text_color=fff" />
-</div>
 
 
 ### 👀 Profile Views  
-<div align="center">
-  
   ![profile views counter](https://count.getloli.com/get/@meawcafe?theme=original-new)
 
-</div>
