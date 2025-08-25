@@ -9,8 +9,8 @@
 
 
 ### ✨ About Me  
-- 🎓 Completed a technical course in **Internet Computing** at [**ETEC**](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)  
 - 🎓 Graduated in **Internet Systems** at [**FATEC**](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)  
+- 🎓 Completed a technical course in **Internet Computing** at [**ETEC**](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)  
 - 🌐 Check out my **[Portfolio](https://meawcafe.github.io/)**  
 
 
