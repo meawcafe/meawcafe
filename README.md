@@ -3,7 +3,7 @@
   <img src='./moon.svg' alt='moon' width='28rem'>
 </h1>
 
-I'm **22 years** old, **Brazilian** and I live in the countryside of **Sao Paulo**. I like **kittens**, **rain**, **cloudy weather**, **ice cream**, **coffee** and especially the **night**.
+I'm **22 years** old. I like **kittens**, **rain**, **cloudy weather**, **ice cream**, **coffee** and especially the **night**.
 
 I completed a technical course in **Internet Computing** at **[ETEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)** and graduated with a technologist degree in **Internet Systems** from **[FATEC](https://www.cps.sp.gov.br/sobre-o-centro-paula-souza/)**.
 
